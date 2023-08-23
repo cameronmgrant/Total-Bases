@@ -1,6 +1,6 @@
 # Total-Bases
 
-In the Predict Total Bases notebook you will see:
+In the Predict Total Bases(https://github.com/cameronmgrant/Total-Bases/blob/main/Predict-Total-Bases.ipynb) notebook you will see:
 
 Web scraping (from Baseball Reference),
 Data Manipulation,
